@@ -1,4 +1,4 @@
-# aries
+# Ariss
 
 > An online food delivery web application
 
