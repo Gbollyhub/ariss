@@ -1,6 +1,6 @@
 # aries
 
-> A Vue.js project
+> An online food delivery web application
 
 ## Build Setup
 
